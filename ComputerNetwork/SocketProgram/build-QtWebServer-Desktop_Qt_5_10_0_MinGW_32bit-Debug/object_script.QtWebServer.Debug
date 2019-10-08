@@ -1,0 +1,13 @@
+INPUT(
+./debug/main.o
+./debug/mainwindow.o
+./debug/configation.o
+./debug/respond.o
+./debug/accept.o
+./debug/guidedialog.o
+./debug/qrc_logo.o
+./debug/moc_mainwindow.o
+./debug/moc_respond.o
+./debug/moc_accept.o
+./debug/moc_guidedialog.o
+);

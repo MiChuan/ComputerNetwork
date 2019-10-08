@@ -1,0 +1,13 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/configation.o
+./release/respond.o
+./release/accept.o
+./release/guidedialog.o
+./release/qrc_logo.o
+./release/moc_mainwindow.o
+./release/moc_respond.o
+./release/moc_accept.o
+./release/moc_guidedialog.o
+);
